@@ -416,7 +416,7 @@ Please cite our paper if you find it helpful.
 [paper](https://dl.acm.org/doi/10.5555/3015812.3015982)
 [code](https://github.com/apoorvavinod/DNGR)
 
-1. **Learning graph representations with recurrent neural network autoencoders,**, in KDD, 2018.
+1. **Learning graph representations with recurrent neural network autoencoders,** in KDD, 2018.
 *A. Taheri, K. Gimpel, and T. Berger-Wolf.*
 [paper](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_27.pdf)
 
@@ -784,7 +784,7 @@ Please cite our paper if you find it helpful.
 *Subramanya, A. and Talukdar, P.P.*
 [link](https://www.morganclaypool.com/doi/abs/10.2200/S00590ED1V01Y201408AIM029)
 
-2. **Semi-supervised learning,**, in Adaptive Computation and Machine Learning, 2009.
+2. **Semi-supervised learning,** in Adaptive Computation and Machine Learning, 2009.
 *Chapelle, O., Scholkopf, B. and Zien, A.*
 [link](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf)
 
